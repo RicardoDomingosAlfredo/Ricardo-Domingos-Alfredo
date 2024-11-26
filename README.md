@@ -1,7 +1,9 @@
 👋 Olá, sou Ricardo Domingos Alfredo!
-🎓 Estudante de Engenharia Informática (4º Ano)
-💻 Apaixonado por tecnologia e bases de dados.
 
+🎓 Estudante de Engenharia Informática (4º Ano)
+
+💻 Apaixonado por tecnologia e bases de dados.
+---------------------------------------------------------------------------------------------------------------------------------
 Hobbies
 -Jogar futebol-⚽ 
 -Jogar futebol
@@ -9,11 +11,13 @@ Hobbies
 
 🌟 Sobre Mim
 Sou um entusiasta da tecnologia com interesse especial em desenvolvimento de software e gestão de bases de dados. Estou sempre aprendendo e buscando novas formas de aplicar meus conhecimentos em Python, Java e C#. Além disso, sou fluente em português, espanhol e inglês.
+---------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Tecnologias & Ferramentas
 https://www.java.com/es/
 https://www.w3schools.com/cs/index.php
 https://www.mongodb.com/es
+---------------------------------------------------------------------------------------------------------------------------------
 
 🌱 Estou Aprendendo
 Atualmente, estou explorando:
